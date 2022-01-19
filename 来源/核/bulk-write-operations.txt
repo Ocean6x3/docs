@@ -1,7 +1,7 @@
 =====================
 Bulk Write Operations
 =====================
-
+  
 .. default-domain:: mongodb
 
 .. contents:: On this page
